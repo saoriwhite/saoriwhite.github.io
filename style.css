@@ -1,0 +1,15 @@
+body{
+    margin:0 auto;
+    width:70%;
+    background-color:black;
+    color:white;
+    font-family:"Consolas";
+}
+a:visited{
+    color:lightgreen;
+    text-decoration: none;
+}
+a:link{
+    color: lightskyblue;
+    text-decoration: none;
+}
